@@ -4,13 +4,19 @@
   "description": "My_Jest_project",
   "main": "homework 2.4.1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "keywords": ["jest"],
+  "keywords": [
+    "touch .gitignorenpm install --save-dev jestjest"
+  ],
   "author": "Anna Labeysh",
   "repository": {
     "type": "git",
     "url": "https://github.com/avlei/homework-2.4.git"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+  
 }
