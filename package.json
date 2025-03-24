@@ -1,0 +1,16 @@
+{
+  "name": "my_node_project_homework-2.4",
+  "version": "1.0.0",
+  "description": "My_Jest_project",
+  "main": "homework 2.4.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["jest"],
+  "author": "Anna Labeysh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avlei/homework-2.4.git"
+  },
+  "license": "ISC"
+}
