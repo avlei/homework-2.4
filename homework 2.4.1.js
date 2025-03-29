@@ -42,3 +42,4 @@ let expencesExamples = [
 ];
 
 expencesExamples.forEach(testExpenses);
+
