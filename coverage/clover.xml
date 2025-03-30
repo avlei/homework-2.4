@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1743359089913" clover="3.2.0">
+  <project timestamp="1743359089913" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5" elements="14" coveredelements="14" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
+    <file name="homework 2.4.1.js" path="C:\Users\alabe\Desktop\anna\курс автоматизация\homework 2.4\homework 2.4.1.js">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <line num="24" count="10" type="stmt"/>
+      <line num="25" count="86" type="stmt"/>
+      <line num="26" count="86" type="stmt"/>
+      <line num="27" count="36" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="34" count="3" type="stmt"/>
+      <line num="35" count="3" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
